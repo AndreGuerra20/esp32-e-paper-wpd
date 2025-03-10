@@ -24,13 +24,13 @@ For this phase i got the frame of the Samsung SPF-85H Photo Frame (depicted belo
   <img src="assets\samsung_spf85h.jpg" />
 </p>
 
-This frame was perfect for this project, i made a small cut near the SD card reader slot so that the esp-32 female pin headers could be inserted. This was almost a perfect fit so i added litle rubber padding in the interior so that i could secure them with tape. (I didnt want to use any kind of permanent glue because it would be cool to re-use the esp32 in other projects)
+This frame was perfect for this project, i made a small cut near the SD card reader slot so that the esp-32 female pin headers could be inserted. This was almost a perfect fit so i added little rubber padding in the interior so that i could secure them with tape. (I didnt want to use any kind of permanent glue because it would be cool to re-use the esp32 in other projects)
 
 <p float="left">
-  <img src="assets\back_wiring.jpg" width="50%" />
+  <img src="assets\interior_wiring.jpg" width="50%" />
 </p>
 
-Unfortonatly i still hadnt had the tools to solder the bme280 sensor to its female adpaters so i taped the sensor together with the wires
+Unfortunately i still hadnt had the tools to solder the bme280 sensor to its female adpaters so i taped the sensor together with the wires
 
 <p float="left">
   <img src="assets/front.jpg" />
